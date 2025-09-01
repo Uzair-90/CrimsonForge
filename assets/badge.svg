@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="36" viewBox="0 0 200 36">
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#b30000"/>
+<stop offset="100%" stop-color="#ff4d4d"/>
+</linearGradient>
+</defs>
+<rect rx="6" width="200" height="36" fill="#111" />
+<rect rx="6" x="2" y="2" width="196" height="32" fill="url(#g)" opacity="0.95"/>
+<g transform="translate(12,22)">
+<text font-family="Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial" font-size="12" fill="#fff">CrimsonForge</text>
+</g>
+<g transform="translate(130,22)">
+<text font-family="Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial" font-size="10" fill="#111">MLIR • ROCm • MFMA</text>
+</g>
+</svg>
