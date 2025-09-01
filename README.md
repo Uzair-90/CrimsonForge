@@ -1,4 +1,4 @@
-# <img src="assets/crimsonforge.png" alt="CrimsonForge Logo" width="60"/> CrimsonForge
+# <img src="assets/crimsonnew.png" alt="CrimsonForge Logo" width="60"/> CrimsonForge
 
 **CrimsonForge** is an open-source project dedicated to building highly optimized GPU kernels and MLIR-based compiler pipelines for modern AI workloads, with a focus on AMD Instinct GPUs (like the MI300 series).  
 Our mission is to create a community-driven hub for accelerating open-source LLMs (DeepSeek, LLaMA, Qwen, and beyond) on AMD hardware.
