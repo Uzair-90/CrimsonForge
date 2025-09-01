@@ -48,16 +48,15 @@ CrimsonForge/
 
 ### Build Instructions
 ```bash
-git clone git@github.com:Uzair-90/CrimsonForge.git
-cd CrimsonForge
-mkdir build && cd build
-cmake ..
-make -j$(nproc)
+Will update the build instructions soon!
+
 ```
 
 ### Running Tests
 ```bash
-ctest
+
+Will provide instructions for each test enironment soon!
+
 ```
 
 ---
