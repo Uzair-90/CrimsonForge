@@ -25,12 +25,14 @@ Our mission is to create a community-driven hub for accelerating open-source LLM
 
 ```
 CrimsonForge/
-├── mlir-passes/       # Custom MLIR passes and dialects
+├── passes/       # Custom MLIR passes and dialects
 ├── kernels/           # Hand-written GPU kernels
-├── models/            # Integrations with LLMs (DeepSeek, LLaMA, Qwen, etc.)
+├── runtime/            # Integrations with LLMs (DeepSeek, LLaMA, Qwen, etc.)
 ├── tests/             # Unit and performance tests
 ├── benchmarks/        # Benchmark scripts and results
 ├── docs/              # Documentation
+|-- dialects	       # Custom MLIR dialects
+|-- scripts		# important project scripts
 └── assets/            # Logos, diagrams, and media
 ```
 
